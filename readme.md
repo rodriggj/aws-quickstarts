@@ -12,12 +12,11 @@
 ### Scenario 1: Deploying a new AWS cloud-based AD DS environment that you manage yourself
 
 #### Architecutre
+
 -----
-<div align="center">
 | AWS Services                        | Architecture                                            | 
 | :---------------------------------- | --------------------------------------------------------| 
 | - AWS Virtual Private Cloud (VPC)   | <img src="https://user-images.githubusercontent.com/8760590/105595793-c2173600-5d50-11eb-84b9-1deaea40ba22.png" width="400px"/>|
-</div>
 -----
 
 Steps:  
