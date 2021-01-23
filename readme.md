@@ -16,7 +16,9 @@
 -----
 | AWS Services                        | Architecture                                            | 
 | :---------------------------------- | --------------------------------------------------------| 
-| - AWS Virtual Private Cloud (VPC) - AWS Elastic Compute (ec2) - NAT Gateways - AWS Direct Connect    | <img src="https://user-images.githubusercontent.com/8760590/105595793-c2173600-5d50-11eb-84b9-1deaea40ba22.png" width="400px"/>|
+| - AWS Virtual Private Cloud (VPC)   | <img src="https://user-images.githubusercontent.com/8760590/105595793-c2173600-5d50-11eb-84b9-1deaea40ba22.png" width="400px"/>|
+| - AWS Elastic Compute Serivce (ec2) |   |
+| - NAT Gateway |   |
 -----
 
 Steps:  
