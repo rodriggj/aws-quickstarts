@@ -5,6 +5,19 @@
 
 ### AWS Quickstart: Active Directory Domain Service 
 
+- [ ] __Scenario 1__: Deploying a new AWS cloud-based AD DS environment that you manage yourself
+- [ ] __Scenario 2__: Extending the existing on-premises AD DS to the AWS Cloud 
+- [ ] __Scenario 3__: Deploying AD DS with your AWS Directory Service
+
+### Scenario 1: Deploying a new AWS cloud-based AD DS environment that you manage yourself
+
+#### Architecutre
+![image](https://user-images.githubusercontent.com/8760590/105595793-c2173600-5d50-11eb-84b9-1deaea40ba22.png)
+---
+
+Steps: 
+1. 
+
 #### References
 
 - [ ] __Microsoft__: Active Directory Domain Services Overview [here](https://www.zillow.com/homedetails/13950-E-Bighorn-Pkwy-Fountain-Hills-AZ-85268/95103403_zpid/?utm_source=email&utm_medium=email&utm_term=urn:msg:2021012222023024c64945e7dea2d6&utm_campaign=emo-MarketReport-ZOUpsellNone-hothomeimage&utm_term=urn:msg:2021012222023024c64945e7dea2d6)
