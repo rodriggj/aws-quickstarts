@@ -15,7 +15,7 @@
 
 -----
 <p align="center">
-  <img src="http://some_place.com/image.png" style="width:450px" />
+  <img src="https://user-images.githubusercontent.com/8760590/105595793-c2173600-5d50-11eb-84b9-1deaea40ba22.png" style="width:450px" />
 </p>
 
 -----
